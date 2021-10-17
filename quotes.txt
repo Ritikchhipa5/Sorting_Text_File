@@ -1,0 +1,27 @@
+A programming language is low level when its programs require attention to the irrelevant.
+Don't worry if it doesn't work right. If everything did, you would be out of a job.
+Perl is the only language that looks the same before and after RSA encryption.
+
+
+Good design adds value faster than it adds cost.
+Treat programmers like bad kids.
+Python's a drop-in replacement for BASIC in the sense that Optimus Prime is a drop-in replacement for a truck.
+C is quirky, flawed, and an enormous success.
+I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
+If McDonalds were run like a software company, one out of every hundred Big Macs would give you food poisoning, and the response would be "We're sorry, here's a coupon for two more".
+
+I don't care if it works on your laptop! We can't ship your laptop!
+When someone says: 'I want a programming language that has only what I need', give him a lollipop.
+
+Most of you are familiar with the virtues of a programmer. There are three, of course: laziness, impatience, and hubris.
+The trouble with programmers is that you can never tell what a programmer is doing until it's too late.
+Talk is cheap. Show me the code.
+Anyone can write code that a computer can understand. Good programmers write code that humans can understand.
+
+FORTRAN is not a flower but a weed: it is hardy, occasionally blooms, and grows in every computer.
+Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
+
+
+Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
+The use of COBOL cripples the mind; its teaching should therefore be regarded as a criminal offense.
